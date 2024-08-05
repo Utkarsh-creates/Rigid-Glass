@@ -7,7 +7,7 @@ Here is a README template for your glass smash effect in Blender:
 This repository contains a Blender project showcasing a glass smash effect created using rigid body dynamics. The effect is designed to simulate realistic glass breaking upon impact, suitable for use in animations, visual effects, and games.
 
 ![Glass Smash Render](glass.png)
-[![Video](https://img.shields.io/badge/Play-red)](https://www.instagram.com/reel/C4IJdpiPug3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+[![Video]([https://img.shields.io/badge/Play-red](https://img.shields.io/badge/Animation-darkblue))](https://www.instagram.com/reel/C4IJdpiPug3/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 
 ## Description
